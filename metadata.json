@@ -1,0 +1,6 @@
+{
+  "name": "Vitamin & Health Tracker",
+  "description": "Daily schedule and progress tracker for vitamins and health supplements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
